@@ -1,29 +1,20 @@
-# niversvue
+# NiversVUE
 
-## Project setup
-```
+Este projeto é parte de uma série que visa comparar os Frames Angular/React/Vue ao AdvPL, mostrando diferenças e similaridades entre as linguagens.
+
+Esta versão é relativa ao Vue, a qual ainda será instrumento de video e post no Medium, no momento oportuno.
+
+## Para utilizar o exemplo:
+
+```bash
+# Clone o repositório
+
+# Acesse o diretório
+cd dir_do_projeto
+
+# Instale as dependencias
 npm install
-```
 
-### Compiles and hot-reloads for development
-```
+# Inicie o projeto
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).

@@ -8,6 +8,7 @@ Esta versão é relativa ao Vue, a qual ainda será instrumento de video e post 
 
 ```bash
 # Clone o repositório
+git clone https://github.com/ricardomansano/NiverVue.git
 
 # Acesse o diretório
 cd dir_do_projeto
